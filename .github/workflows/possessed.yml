@@ -1,0 +1,22 @@
+name: Possessed
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Most links Gemma 4 reads this run
+        default: "10"
+  schedule:
+    - cron: "0 6 * * 1"
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  possessed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # the date each link was added comes from git history
+      - uses: JonathanSolvesProblems/possessed@main
+        with:
+          limit: ${{ inputs.limit || '10' }}
