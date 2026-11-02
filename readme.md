@@ -74,7 +74,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create  |
 | [Manypixels.co](https://www.manypixels.co/gallery/)                                                      | Monochromatic, Isometric high-quality illustrations                |
 | [Open Peeps](https://www.openpeeps.com/)                                                                 | Hand drawn illustration library                                    |
-| [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups     |
+| [InvisionApp](https://web.archive.org/web/20200503110440/https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups     |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
 | [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
 | [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin                  |
@@ -211,7 +211,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Web Gradients](https://webgradients.com/)| A free website to find good CSS gradients |
 | [ColorBox](https://www.colorbox.io)| A free website to produce color set |
 | [CSS gradient](https://cssgradient.io/)| A free website to make custom gradient and some examples of gradient |
-| [gradienta](https://gradienta.io/)| A pure css and jpg gradients |
+| [gradienta](https://web.archive.org/web/20200417080611/https://gradienta.io/)| A pure css and jpg gradients |
 | [UI Gradients](https://uigradients.com/)| UI gradients color generator |
 | [Palette Generator](https://palettegenerator.colorion.co/)| Generate new color palette with every spacebar press |
 | [Material Palettes](https://material.colorion.co/)| 1000+ Material Design palettes |
@@ -657,7 +657,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Material Design Lite](https://getmdl.io/)| Light framework based on Material Design. No JS dependency |
 | [Bulma](https://bulma.io/)| Modern CSS framework with no JS |
 | [Skeleton](http://getskeleton.com/)| Extremely light framework for basic UI elements |
-| [Uniform CSS](https://uniformcss.com/)| Fully configurable utility generator and CSS framework built entirely in Sass |
+| [Uniform CSS](https://web.archive.org/web/20210723190007/https://uniformcss.com/)| Fully configurable utility generator and CSS framework built entirely in Sass |
 | [Semantic UI](https://semantic-ui.com/)| Empowers designers and developers by creating a shared vocabulary for UI  |
 | [Fomantic UI](https://fomantic-ui.com/)| A community fork of Semantic-UI |
 | [Foundation](https://get.foundation/)| Mobile first framework with clean markup |
@@ -726,7 +726,7 @@ Available for MacOS, Linux, & Windows<br>
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [OOCSS](http://oocss.org/) | OOCSS concepts help us write components that are flexible, modular and interchangeable. |
+| [OOCSS](https://web.archive.org/web/20200926025002/http://oocss.org/) | OOCSS concepts help us write components that are flexible, modular and interchangeable. |
 | [Atomic CSS](https://acss.io/) | Atomic CSS is the approach to CSS architecture that favors small, single-purpose classes with names based on visual function. |
 | [BEM](http://getbem.com/) | Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development. |
 | [SMACSS](http://smacss.com/) | SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. |
@@ -960,7 +960,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Landing Page Template](https://github.com/cruip/open-react-template/)| Open source landing page template for react |
 | [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps |
 | [Ant Design](https://ant.design/)| Open source design React UI library. |
-| [Bumbag](https://bumbag.style/)| Bumbag is a friendly React UI Kit suitable for MVPs or large-scale applications. |
+| [Bumbag](https://web.archive.org/web/20200805050011/https://bumbag.style/)| Bumbag is a friendly React UI Kit suitable for MVPs or large-scale applications. |
 | [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components |
 | [Primer Components](https://primer.style/components/)| Primer Components are React components which implement GitHub's Primer Design System |
 | [Orbit](https://orbit.kiwi/)| Design system and React UI components for travel projects. |
@@ -996,7 +996,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Base UI](https://github.com/mui/base-ui)| Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. |
 | [Radix UI](https://www.radix-ui.com/)| Unstyled, accessible components for building high‑quality design systems and web apps in React |
 | [Materio MUI React NextJS Admin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free)| Most Powerful & Comprehensive Open-source MUI React NextJS Admin Dashboard Template built for developers. |
-| [Chakra Templates](https://chakra-templates.dev/)| A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project. |
+| [Chakra Templates](https://web.archive.org/web/20220603052424/https://chakra-templates.dev/)| A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project. |
 | [React Resizable Panels](https://github.com/bvaughn/react-resizable-panels)| React components for resizable panel groups/layouts. |
 | [Carbon React](https://carbondesignsystem.com/developing/frameworks/react/)| Extensive library of React components for Websites and UI's. Based on the Carbon Design System from IBM |
 | [React Aria](https://react-spectrum.adobe.com/react-aria/) | A library of React Hooks that provides accessible UI primitives for your design system. |
@@ -1059,7 +1059,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Vuikit](https://vuikit.js.org/) | A consistent and responsive Vue UI library, based on the front-end framework UIkit. |
 | [Wave UI](https://antoniandre.github.io/wave-ui/) | A Vue.js UI framework with only the bright side. |
 | [VueTailwind](https://www.vue-tailwind.com/) | Set of Lightview and fully customizable Vue Components optimized for TailwindCSS. |
-| [Oruga](https://oruga.io/) | Oruga is a lightweight library of UI components for Vue.js without CSS framework dependency. |
+| [Oruga](https://web.archive.org/web/20210120214135/https://oruga.io/) | Oruga is a lightweight library of UI components for Vue.js without CSS framework dependency. |
 | [BalmUI](https://material.balmjs.com/#/) | BalmUI is a modular and customizable Material Design UI library for Vue.js. |
 | [Weex UI](https://github.com/apache/incubator-weex-ui) | A rich interaction, lightweight, high performance UI library based on Weex. |
 | [Varlet](https://github.com/haoziqaq/varlet) | Varlet is a Material design mobile component library developed based on Vue3, developed and maintained by partners in the community. |
@@ -1380,7 +1380,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Free Design Resource](https://freedesignresources.net/) | A site offering fonts, mockups, templates graphics and ui kits.  |
 | [Site Inspire](https://www.siteinspire.com/) |siteInspire is a showcase of the finest web and interactive design.  |
 | [Web Design Inspiration](https://www.webdesign-inspiration.com/) | A site for web design inspiration, updated daily.  |
-| [NavNav](https://navnav.co/) | Responsive navigation examples |
+| [NavNav](https://web.archive.org/web/20200331195909/https://navnav.co/) | Responsive navigation examples |
 | [Calltoidea](https://www.calltoidea.com/) | Collection of different web Components for inspiration. |
 | [Mulzli Search](https://search.muz.li) | Search engine for design inspiration |
 | [DeviantArt](https://www.deviantart.com/) | Access to 370 million pieces of art for inspiration. |
@@ -1599,7 +1599,7 @@ Available for MacOS, Linux, & Windows<br>
 | [CSS Ribbon Generator](https://www.cssportal.com/css-ribbon-generator/)| This generator will assist in creating a pure CSS corner ribbon. |
 | [Can I Use](https://caniuse.com/) | Check cross-browser compatibility of frontend technologies. |
 | [kangax-js-compat-table](https://compat-table.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).|
-| [mydevice.io](https://www.mydevice.io/)| Most commonly used device resolutions including phones and tablets |
+| [mydevice.io](https://web.archive.org/web/20200520002109/https://www.mydevice.io/)| Most commonly used device resolutions including phones and tablets |
 | [Codepen](https://codepen.io/) | Build, test and discover frontend code. |
 | [Responsively](https://responsively.app) | A tool for designers and frontend developers to design and debug their in all platforms with ease |
 | [html2pdf.js](https://ekoopmans.github.io/html2pdf.js/) | Client-side HTML-to-PDF rendering using pure JS. |
